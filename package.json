@@ -1,11 +1,11 @@
 {
-  "name": "@ktmcp-cli/openbankingorgukacco",
+  "name": "@ktmcp-cli/obaccount",
   "version": "1.0.0",
   "description": "CLI for Open Banking UK Account and Transaction API - access account and transaction data",
   "type": "module",
   "main": "src/index.js",
   "bin": {
-    "openbankingorgukacco": "bin/openbankingorgukacco.js"
+    "obaccount": "bin/obaccount.js"
   },
   "keywords": [
     "open-banking",
@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ktmcp-cli/openbankingorgukacco.git"
+    "url": "git+https://github.com/ktmcp-cli/obaccount.git"
   },
-  "homepage": "https://killthemcp.com/openbankingorgukacco-cli",
+  "homepage": "https://killthemcp.com/obaccount-cli",
   "bugs": {
-    "url": "https://github.com/ktmcp-cli/openbankingorgukacco/issues"
+    "url": "https://github.com/ktmcp-cli/obaccount/issues"
   }
 }
